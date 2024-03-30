@@ -17,7 +17,7 @@ export default function Home() {
             src="https://go.echo3d.co/arJa"
           ></iframe>
           <iframe
-            src="https://go.echo3d.co/arJa"
+            src="https://go.echo3d.co/Wzgx"
           ></iframe>
         </div>
       </div>
